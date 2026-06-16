@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EcoloApp</string>
+    <string name="title_activity_main">EcoloApp</string>
+    <string name="package_name">com.ecoloapp.finance</string>
+    <string name="custom_url_scheme">com.ecoloapp.finance</string>
+</resources>
